@@ -1,0 +1,2245 @@
+[
+  {
+    "category": "Transport",
+    "subCategory": "Transit",
+    "amount": 45.9,
+    "currency": "INR",
+    "description": "BMTC \u2014 Office to Home",
+    "merchant": "BMTC",
+    "date": "2026-04-21",
+    "status": "completed",
+    "meta": {
+      "transportType": "Transit",
+      "provider": "BMTC",
+      "tripFrom": "Office",
+      "tripTo": "Home",
+      "distanceKm": null,
+      "dayLabel": ""
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "SaaS",
+    "amount": 833,
+    "currency": "INR",
+    "description": "GitHub Copilot \u2014 Monthly subscription",
+    "merchant": "GitHub Copilot",
+    "date": "2026-05-01",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Transport",
+    "subCategory": "Fuel",
+    "amount": 1623.69,
+    "currency": "INR",
+    "description": "Indian Oil \u2014 Home to Hospital",
+    "merchant": "Indian Oil",
+    "date": "2026-05-04",
+    "status": "completed",
+    "meta": {
+      "transportType": "Fuel",
+      "provider": "Indian Oil",
+      "tripFrom": "Home",
+      "tripTo": "Hospital",
+      "distanceKm": null,
+      "dayLabel": ""
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Food",
+    "subCategory": "Grocery",
+    "amount": 1059.84,
+    "currency": "INR",
+    "description": "BigBasket \u2014 Weekend family order",
+    "merchant": "BigBasket",
+    "date": "2026-04-09",
+    "status": "completed",
+    "meta": {
+      "foodType": "Grocery",
+      "platform": "BigBasket",
+      "itemCount": 2,
+      "orderId": "ORD-355475"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "SaaS",
+    "amount": 1599,
+    "currency": "INR",
+    "description": "LinkedIn Premium \u2014 Monthly subscription",
+    "merchant": "LinkedIn Premium",
+    "date": "2026-05-01",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": false,
+      "planName": "Standard",
+      "subscriptionStatus": "Cancelled"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Transport",
+    "subCategory": "Fuel",
+    "amount": 2409.35,
+    "currency": "INR",
+    "description": "HP Petrol \u2014 Office to Home",
+    "merchant": "HP Petrol",
+    "date": "2026-04-26",
+    "status": "completed",
+    "meta": {
+      "transportType": "Fuel",
+      "provider": "HP Petrol",
+      "tripFrom": "Office",
+      "tripTo": "Home",
+      "distanceKm": null,
+      "dayLabel": ""
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Entertainment",
+    "subCategory": "Streaming",
+    "amount": 149.0,
+    "currency": "INR",
+    "description": "Amazon Prime \u2014 Gaming session",
+    "merchant": "Amazon Prime",
+    "date": "2026-04-13",
+    "status": "completed",
+    "meta": {
+      "entertainmentType": "Streaming",
+      "platform": "Amazon Prime",
+      "eventName": "Gaming session",
+      "venue": "",
+      "ticketCount": null
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "Streaming",
+    "amount": 299,
+    "currency": "INR",
+    "description": "Amazon Prime \u2014 Monthly subscription",
+    "merchant": "Amazon Prime",
+    "date": "2026-05-01",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Food",
+    "subCategory": "Delivery",
+    "amount": 185.01,
+    "currency": "INR",
+    "description": "Zomato \u2014 Team lunch",
+    "merchant": "Zomato",
+    "date": "2026-03-30",
+    "status": "completed",
+    "meta": {
+      "foodType": "Delivery",
+      "platform": "Zomato",
+      "itemCount": 2,
+      "orderId": "ORD-795591"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Shopping",
+    "subCategory": "Clothing",
+    "amount": 1560.52,
+    "currency": "INR",
+    "description": "Myntra \u2014 Shelf unit",
+    "merchant": "Myntra",
+    "date": "2026-02-23",
+    "status": "completed",
+    "meta": {
+      "shoppingType": "Clothing",
+      "platform": "Myntra",
+      "orderId": "ORD-983495",
+      "deliveryStatus": "In Transit",
+      "itemName": "Shelf unit"
+    },
+    "createdAt": "2026-05-18T04:30:05.860683",
+    "updatedAt": "2026-05-18T04:30:05.860683"
+  },
+  {
+    "category": "Entertainment",
+    "subCategory": "Events",
+    "amount": 1756.28,
+    "currency": "INR",
+    "description": "Escape Room \u2014 Weekend movie",
+    "merchant": "Escape Room",
+    "date": "2026-03-31",
+    "status": "completed",
+    "meta": {
+      "entertainmentType": "Events",
+      "platform": "Escape Room",
+      "eventName": "Weekend movie",
+      "venue": "",
+      "ticketCount": 2
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Transport",
+    "subCategory": "Ride",
+    "amount": 224.76,
+    "currency": "INR",
+    "description": "Ola \u2014 Home to Hospital",
+    "merchant": "Ola",
+    "date": "2026-05-09",
+    "status": "completed",
+    "meta": {
+      "transportType": "Ride",
+      "provider": "Ola",
+      "tripFrom": "Home",
+      "tripTo": "Hospital",
+      "distanceKm": 13.0,
+      "dayLabel": ""
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Food",
+    "subCategory": "Delivery",
+    "amount": 598.37,
+    "currency": "INR",
+    "description": "Swiggy \u2014 Late-night snacks",
+    "merchant": "Swiggy",
+    "date": "2026-04-15",
+    "status": "completed",
+    "meta": {
+      "foodType": "Delivery",
+      "platform": "Swiggy",
+      "itemCount": 2,
+      "orderId": "ORD-321903"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Shopping",
+    "subCategory": "Sports",
+    "amount": 5227.18,
+    "currency": "INR",
+    "description": "Decathlon \u2014 Keyboard",
+    "merchant": "Decathlon",
+    "date": "2026-05-03",
+    "status": "completed",
+    "meta": {
+      "shoppingType": "Sports",
+      "platform": "Decathlon",
+      "orderId": "ORD-551902",
+      "deliveryStatus": "In Transit",
+      "itemName": "Keyboard"
+    },
+    "createdAt": "2026-05-18T04:30:05.860683",
+    "updatedAt": "2026-05-18T04:30:05.860683"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "Health",
+    "amount": 999,
+    "currency": "INR",
+    "description": "Gym Pro \u2014 Monthly subscription",
+    "merchant": "Gym Pro",
+    "date": "2026-05-01",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Food",
+    "subCategory": "Cafe",
+    "amount": 312.34,
+    "currency": "INR",
+    "description": "Cafe Coffee Day \u2014 Instant restock",
+    "merchant": "Cafe Coffee Day",
+    "date": "2026-05-03",
+    "status": "completed",
+    "meta": {
+      "foodType": "Cafe",
+      "platform": "Cafe Coffee Day",
+      "itemCount": 1,
+      "orderId": "ORD-836270"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Transport",
+    "subCategory": "Ride",
+    "amount": 298.18,
+    "currency": "INR",
+    "description": "Ola \u2014 Home to Office",
+    "merchant": "Ola",
+    "date": "2026-05-02",
+    "status": "completed",
+    "meta": {
+      "transportType": "Ride",
+      "provider": "Ola",
+      "tripFrom": "Home",
+      "tripTo": "Office",
+      "distanceKm": 23.6,
+      "dayLabel": ""
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Food",
+    "subCategory": "Cafe",
+    "amount": 381.53,
+    "currency": "INR",
+    "description": "Starbucks \u2014 Weekend family order",
+    "merchant": "Starbucks",
+    "date": "2026-04-30",
+    "status": "completed",
+    "meta": {
+      "foodType": "Cafe",
+      "platform": "Starbucks",
+      "itemCount": 4,
+      "orderId": "ORD-401790"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Transport",
+    "subCategory": "Ride",
+    "amount": 104.66,
+    "currency": "INR",
+    "description": "Auto \u2014 Airport to Home",
+    "merchant": "Auto",
+    "date": "2026-05-08",
+    "status": "completed",
+    "meta": {
+      "transportType": "Ride",
+      "provider": "Auto",
+      "tripFrom": "Airport",
+      "tripTo": "Home",
+      "distanceKm": 14.8,
+      "dayLabel": ""
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Food",
+    "subCategory": "Grocery",
+    "amount": 724.58,
+    "currency": "INR",
+    "description": "Blinkit \u2014 Team lunch",
+    "merchant": "Blinkit",
+    "date": "2026-04-11",
+    "status": "completed",
+    "meta": {
+      "foodType": "Grocery",
+      "platform": "Blinkit",
+      "itemCount": 2,
+      "orderId": "ORD-685530"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Food",
+    "subCategory": "Dine-out",
+    "amount": 97.61,
+    "currency": "INR",
+    "description": "Canteen \u2014 Late-night snacks",
+    "merchant": "Canteen",
+    "date": "2026-05-02",
+    "status": "completed",
+    "meta": {
+      "foodType": "Dine-out",
+      "platform": "Canteen",
+      "itemCount": 2,
+      "orderId": "ORD-520912"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Shopping",
+    "subCategory": "Electronics",
+    "amount": 1685.69,
+    "currency": "INR",
+    "description": "Flipkart \u2014 Smart watch",
+    "merchant": "Flipkart",
+    "date": "2026-05-13",
+    "status": "completed",
+    "meta": {
+      "shoppingType": "Electronics",
+      "platform": "Flipkart",
+      "orderId": "ORD-256940",
+      "deliveryStatus": "Returned",
+      "itemName": "Smart watch"
+    },
+    "createdAt": "2026-05-18T04:30:05.860683",
+    "updatedAt": "2026-05-18T04:30:05.860683"
+  },
+  {
+    "category": "Shopping",
+    "subCategory": "Electronics",
+    "amount": 4401.25,
+    "currency": "INR",
+    "description": "Flipkart \u2014 Gym gear",
+    "merchant": "Flipkart",
+    "date": "2026-03-25",
+    "status": "completed",
+    "meta": {
+      "shoppingType": "Electronics",
+      "platform": "Flipkart",
+      "orderId": "ORD-906370",
+      "deliveryStatus": "Delivered",
+      "itemName": "Gym gear"
+    },
+    "createdAt": "2026-05-18T04:30:05.860683",
+    "updatedAt": "2026-05-18T04:30:05.860683"
+  },
+  {
+    "category": "Food",
+    "subCategory": "Grocery",
+    "amount": 654.29,
+    "currency": "INR",
+    "description": "Blinkit \u2014 Late-night snacks",
+    "merchant": "Blinkit",
+    "date": "2026-03-20",
+    "status": "completed",
+    "meta": {
+      "foodType": "Grocery",
+      "platform": "Blinkit",
+      "itemCount": 1,
+      "orderId": "ORD-122288"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Shopping",
+    "subCategory": "Sports",
+    "amount": 5534.68,
+    "currency": "INR",
+    "description": "Decathlon \u2014 Running shoes",
+    "merchant": "Decathlon",
+    "date": "2026-04-12",
+    "status": "completed",
+    "meta": {
+      "shoppingType": "Sports",
+      "platform": "Decathlon",
+      "orderId": "ORD-269590",
+      "deliveryStatus": "Returned",
+      "itemName": "Running shoes"
+    },
+    "createdAt": "2026-05-18T04:30:05.860683",
+    "updatedAt": "2026-05-18T04:30:05.860683"
+  },
+  {
+    "category": "Food",
+    "subCategory": "Grocery",
+    "amount": 240.23,
+    "currency": "INR",
+    "description": "Zepto \u2014 Office breakfast",
+    "merchant": "Zepto",
+    "date": "2026-04-06",
+    "status": "completed",
+    "meta": {
+      "foodType": "Grocery",
+      "platform": "Zepto",
+      "itemCount": 4,
+      "orderId": "ORD-897665"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "Cloud",
+    "amount": 130,
+    "currency": "INR",
+    "description": "Google One \u2014 Monthly subscription",
+    "merchant": "Google One",
+    "date": "2026-05-01",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Rent",
+    "subCategory": "Monthly",
+    "amount": 25000,
+    "currency": "INR",
+    "description": "2025-12 rent \u2014 Mr. Sharma",
+    "merchant": "Mr. Sharma",
+    "date": "2025-12-02",
+    "status": "completed",
+    "meta": {
+      "modeOfPayment": "Bank Transfer",
+      "upiRef": null,
+      "bankRef": "NEFT255042",
+      "billingMonth": "2025-12",
+      "landlordName": "Mr. Sharma",
+      "propertyAddress": "Flat 2B, Koramangala"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Transport",
+    "subCategory": "Transit",
+    "amount": 22.54,
+    "currency": "INR",
+    "description": "Bus \u2014 Home to Gym",
+    "merchant": "Bus",
+    "date": "2026-04-24",
+    "status": "completed",
+    "meta": {
+      "transportType": "Transit",
+      "provider": "Bus",
+      "tripFrom": "Home",
+      "tripTo": "Gym",
+      "distanceKm": null,
+      "dayLabel": ""
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Transport",
+    "subCategory": "Transit",
+    "amount": 27.89,
+    "currency": "INR",
+    "description": "Bus \u2014 Office to Home",
+    "merchant": "Bus",
+    "date": "2026-05-17",
+    "status": "completed",
+    "meta": {
+      "transportType": "Transit",
+      "provider": "Bus",
+      "tripFrom": "Office",
+      "tripTo": "Home",
+      "distanceKm": null,
+      "dayLabel": ""
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Transport",
+    "subCategory": "Fuel",
+    "amount": 1700.29,
+    "currency": "INR",
+    "description": "HP Petrol \u2014 Office to Home",
+    "merchant": "HP Petrol",
+    "date": "2026-04-20",
+    "status": "completed",
+    "meta": {
+      "transportType": "Fuel",
+      "provider": "HP Petrol",
+      "tripFrom": "Office",
+      "tripTo": "Home",
+      "distanceKm": null,
+      "dayLabel": ""
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "Streaming",
+    "amount": 299,
+    "currency": "INR",
+    "description": "Hotstar \u2014 Monthly subscription",
+    "merchant": "Hotstar",
+    "date": "2026-05-01",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Entertainment",
+    "subCategory": "Movies",
+    "amount": 352.94,
+    "currency": "INR",
+    "description": "INOX \u2014 Friends outing",
+    "merchant": "INOX",
+    "date": "2026-05-05",
+    "status": "completed",
+    "meta": {
+      "entertainmentType": "Movies",
+      "platform": "INOX",
+      "eventName": "Friends outing",
+      "venue": "INOX City Centre",
+      "ticketCount": 3
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Shopping",
+    "subCategory": "Sports",
+    "amount": 3996.95,
+    "currency": "INR",
+    "description": "Decathlon \u2014 USB-C Hub",
+    "merchant": "Decathlon",
+    "date": "2026-05-06",
+    "status": "completed",
+    "meta": {
+      "shoppingType": "Sports",
+      "platform": "Decathlon",
+      "orderId": "ORD-188169",
+      "deliveryStatus": "In Transit",
+      "itemName": "USB-C Hub"
+    },
+    "createdAt": "2026-05-18T04:30:05.860683",
+    "updatedAt": "2026-05-18T04:30:05.860683"
+  },
+  {
+    "category": "Rent",
+    "subCategory": "Monthly",
+    "amount": 25000,
+    "currency": "INR",
+    "description": "2026-05 rent \u2014 Mr. Sharma",
+    "merchant": "Mr. Sharma",
+    "date": "2026-05-01",
+    "status": "completed",
+    "meta": {
+      "modeOfPayment": "Bank Transfer",
+      "upiRef": null,
+      "bankRef": "NEFT856113",
+      "billingMonth": "2026-05",
+      "landlordName": "Mr. Sharma",
+      "propertyAddress": "Flat 2B, Koramangala"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Entertainment",
+    "subCategory": "Events",
+    "amount": 4388.88,
+    "currency": "INR",
+    "description": "BookMyShow \u2014 Weekend movie",
+    "merchant": "BookMyShow",
+    "date": "2026-03-24",
+    "status": "completed",
+    "meta": {
+      "entertainmentType": "Events",
+      "platform": "BookMyShow",
+      "eventName": "Weekend movie",
+      "venue": "",
+      "ticketCount": 2
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Entertainment",
+    "subCategory": "Streaming",
+    "amount": 149.0,
+    "currency": "INR",
+    "description": "Amazon Prime \u2014 Live comedy show",
+    "merchant": "Amazon Prime",
+    "date": "2026-05-06",
+    "status": "completed",
+    "meta": {
+      "entertainmentType": "Streaming",
+      "platform": "Amazon Prime",
+      "eventName": "Live comedy show",
+      "venue": "",
+      "ticketCount": null
+    },
+    "createdAt": "2026-05-18T04:30:05.860683",
+    "updatedAt": "2026-05-18T04:30:05.860683"
+  },
+  {
+    "category": "Transport",
+    "subCategory": "Transit",
+    "amount": 48.65,
+    "currency": "INR",
+    "description": "Metro \u2014 Station to Office",
+    "merchant": "Metro",
+    "date": "2026-04-18",
+    "status": "completed",
+    "meta": {
+      "transportType": "Transit",
+      "provider": "Metro",
+      "tripFrom": "Station",
+      "tripTo": "Office",
+      "distanceKm": null,
+      "dayLabel": ""
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "Streaming",
+    "amount": 299,
+    "currency": "INR",
+    "description": "Amazon Prime \u2014 Monthly subscription",
+    "merchant": "Amazon Prime",
+    "date": "2026-04-01",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Food",
+    "subCategory": "Delivery",
+    "amount": 432.28,
+    "currency": "INR",
+    "description": "Swiggy \u2014 Monthly grocery run",
+    "merchant": "Swiggy",
+    "date": "2026-05-17",
+    "status": "completed",
+    "meta": {
+      "foodType": "Delivery",
+      "platform": "Swiggy",
+      "itemCount": 3,
+      "orderId": "ORD-787609"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Shopping",
+    "subCategory": "Beauty",
+    "amount": 493.3,
+    "currency": "INR",
+    "description": "Nykaa \u2014 Keyboard",
+    "merchant": "Nykaa",
+    "date": "2026-02-21",
+    "status": "completed",
+    "meta": {
+      "shoppingType": "Beauty",
+      "platform": "Nykaa",
+      "orderId": "ORD-166132",
+      "deliveryStatus": "In Transit",
+      "itemName": "Keyboard"
+    },
+    "createdAt": "2026-05-18T04:30:05.860683",
+    "updatedAt": "2026-05-18T04:30:05.860683"
+  },
+  {
+    "category": "Food",
+    "subCategory": "Dine-out",
+    "amount": 233.93,
+    "currency": "INR",
+    "description": "Local Dhaba \u2014 Office breakfast",
+    "merchant": "Local Dhaba",
+    "date": "2026-03-20",
+    "status": "completed",
+    "meta": {
+      "foodType": "Dine-out",
+      "platform": "Local Dhaba",
+      "itemCount": 2,
+      "orderId": "ORD-251862"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "Streaming",
+    "amount": 299,
+    "currency": "INR",
+    "description": "Amazon Prime \u2014 Monthly subscription",
+    "merchant": "Amazon Prime",
+    "date": "2026-03-02",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "Streaming",
+    "amount": 649,
+    "currency": "INR",
+    "description": "Netflix \u2014 Monthly subscription",
+    "merchant": "Netflix",
+    "date": "2026-03-02",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Transport",
+    "subCategory": "Ride",
+    "amount": 75.7,
+    "currency": "INR",
+    "description": "Auto \u2014 Home to Gym",
+    "merchant": "Auto",
+    "date": "2026-04-22",
+    "status": "completed",
+    "meta": {
+      "transportType": "Ride",
+      "provider": "Auto",
+      "tripFrom": "Home",
+      "tripTo": "Gym",
+      "distanceKm": 14.2,
+      "dayLabel": ""
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Transport",
+    "subCategory": "Transit",
+    "amount": 29.25,
+    "currency": "INR",
+    "description": "Bus \u2014 Home to Gym",
+    "merchant": "Bus",
+    "date": "2026-04-26",
+    "status": "completed",
+    "meta": {
+      "transportType": "Transit",
+      "provider": "Bus",
+      "tripFrom": "Home",
+      "tripTo": "Gym",
+      "distanceKm": null,
+      "dayLabel": ""
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Transport",
+    "subCategory": "Ride",
+    "amount": 83.97,
+    "currency": "INR",
+    "description": "InDrive \u2014 Home to Office",
+    "merchant": "InDrive",
+    "date": "2026-04-18",
+    "status": "completed",
+    "meta": {
+      "transportType": "Ride",
+      "provider": "InDrive",
+      "tripFrom": "Home",
+      "tripTo": "Office",
+      "distanceKm": 8.0,
+      "dayLabel": ""
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "Cloud",
+    "amount": 2100,
+    "currency": "INR",
+    "description": "AWS EC2 \u2014 Monthly subscription",
+    "merchant": "AWS EC2",
+    "date": "2026-03-02",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Rent",
+    "subCategory": "Monthly",
+    "amount": 25000,
+    "currency": "INR",
+    "description": "2026-01 rent \u2014 Mr. Sharma",
+    "merchant": "Mr. Sharma",
+    "date": "2026-01-31",
+    "status": "completed",
+    "meta": {
+      "modeOfPayment": "Bank Transfer",
+      "upiRef": null,
+      "bankRef": "NEFT365032",
+      "billingMonth": "2026-01",
+      "landlordName": "Mr. Sharma",
+      "propertyAddress": "Flat 2B, Koramangala"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Food",
+    "subCategory": "Delivery",
+    "amount": 331.29,
+    "currency": "INR",
+    "description": "Domino's \u2014 Morning coffee",
+    "merchant": "Domino's",
+    "date": "2026-04-18",
+    "status": "completed",
+    "meta": {
+      "foodType": "Delivery",
+      "platform": "Domino's",
+      "itemCount": 3,
+      "orderId": "ORD-245005"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "Streaming",
+    "amount": 179,
+    "currency": "INR",
+    "description": "Spotify \u2014 Monthly subscription",
+    "merchant": "Spotify",
+    "date": "2026-04-01",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Food",
+    "subCategory": "Grocery",
+    "amount": 564.07,
+    "currency": "INR",
+    "description": "Blinkit \u2014 Quick lunch",
+    "merchant": "Blinkit",
+    "date": "2026-04-01",
+    "status": "completed",
+    "meta": {
+      "foodType": "Grocery",
+      "platform": "Blinkit",
+      "itemCount": 1,
+      "orderId": "ORD-623076"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "SaaS",
+    "amount": 833,
+    "currency": "INR",
+    "description": "GitHub Copilot \u2014 Monthly subscription",
+    "merchant": "GitHub Copilot",
+    "date": "2026-04-01",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Transport",
+    "subCategory": "Ride",
+    "amount": 416.15,
+    "currency": "INR",
+    "description": "Ola \u2014 Office to Restaurant",
+    "merchant": "Ola",
+    "date": "2026-05-10",
+    "status": "completed",
+    "meta": {
+      "transportType": "Ride",
+      "provider": "Ola",
+      "tripFrom": "Office",
+      "tripTo": "Restaurant",
+      "distanceKm": 18.2,
+      "dayLabel": ""
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Entertainment",
+    "subCategory": "Gaming",
+    "amount": 3459.28,
+    "currency": "INR",
+    "description": "Steam \u2014 Concert night",
+    "merchant": "Steam",
+    "date": "2026-05-10",
+    "status": "completed",
+    "meta": {
+      "entertainmentType": "Gaming",
+      "platform": "Steam",
+      "eventName": "Concert night",
+      "venue": "",
+      "ticketCount": null
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "Streaming",
+    "amount": 179,
+    "currency": "INR",
+    "description": "Spotify \u2014 Monthly subscription",
+    "merchant": "Spotify",
+    "date": "2026-05-01",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Entertainment",
+    "subCategory": "Gaming",
+    "amount": 2884.22,
+    "currency": "INR",
+    "description": "PlayStation \u2014 Live comedy show",
+    "merchant": "PlayStation",
+    "date": "2026-05-11",
+    "status": "completed",
+    "meta": {
+      "entertainmentType": "Gaming",
+      "platform": "PlayStation",
+      "eventName": "Live comedy show",
+      "venue": "",
+      "ticketCount": null
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Shopping",
+    "subCategory": "Clothing",
+    "amount": 1059.93,
+    "currency": "INR",
+    "description": "Meesho \u2014 Gym gear",
+    "merchant": "Meesho",
+    "date": "2026-04-21",
+    "status": "completed",
+    "meta": {
+      "shoppingType": "Clothing",
+      "platform": "Meesho",
+      "orderId": "ORD-435379",
+      "deliveryStatus": "In Transit",
+      "itemName": "Gym gear"
+    },
+    "createdAt": "2026-05-18T04:30:05.860683",
+    "updatedAt": "2026-05-18T04:30:05.860683"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "SaaS",
+    "amount": 833,
+    "currency": "INR",
+    "description": "GitHub Copilot \u2014 Monthly subscription",
+    "merchant": "GitHub Copilot",
+    "date": "2026-03-02",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Food",
+    "subCategory": "Cafe",
+    "amount": 548.96,
+    "currency": "INR",
+    "description": "Starbucks \u2014 Dinner with friends",
+    "merchant": "Starbucks",
+    "date": "2026-04-01",
+    "status": "completed",
+    "meta": {
+      "foodType": "Cafe",
+      "platform": "Starbucks",
+      "itemCount": 2,
+      "orderId": "ORD-444327"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "SaaS",
+    "amount": 1599,
+    "currency": "INR",
+    "description": "LinkedIn Premium \u2014 Monthly subscription",
+    "merchant": "LinkedIn Premium",
+    "date": "2026-03-02",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": false,
+      "planName": "Standard",
+      "subscriptionStatus": "Cancelled"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "Streaming",
+    "amount": 649,
+    "currency": "INR",
+    "description": "Netflix \u2014 Monthly subscription",
+    "merchant": "Netflix",
+    "date": "2026-04-01",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Food",
+    "subCategory": "Grocery",
+    "amount": 585.12,
+    "currency": "INR",
+    "description": "Blinkit \u2014 Team lunch",
+    "merchant": "Blinkit",
+    "date": "2026-03-21",
+    "status": "completed",
+    "meta": {
+      "foodType": "Grocery",
+      "platform": "Blinkit",
+      "itemCount": 5,
+      "orderId": "ORD-710110"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Entertainment",
+    "subCategory": "Movies",
+    "amount": 382.81,
+    "currency": "INR",
+    "description": "INOX \u2014 Gaming session",
+    "merchant": "INOX",
+    "date": "2026-04-15",
+    "status": "completed",
+    "meta": {
+      "entertainmentType": "Movies",
+      "platform": "INOX",
+      "eventName": "Gaming session",
+      "venue": "INOX City Centre",
+      "ticketCount": 1
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Entertainment",
+    "subCategory": "Movies",
+    "amount": 783.28,
+    "currency": "INR",
+    "description": "INOX \u2014 Gaming session",
+    "merchant": "INOX",
+    "date": "2026-04-17",
+    "status": "completed",
+    "meta": {
+      "entertainmentType": "Movies",
+      "platform": "INOX",
+      "eventName": "Gaming session",
+      "venue": "INOX City Centre",
+      "ticketCount": 2
+    },
+    "createdAt": "2026-05-18T04:30:05.860683",
+    "updatedAt": "2026-05-18T04:30:05.860683"
+  },
+  {
+    "category": "Shopping",
+    "subCategory": "Clothing",
+    "amount": 1619.82,
+    "currency": "INR",
+    "description": "Ajio \u2014 Shelf unit",
+    "merchant": "Ajio",
+    "date": "2026-02-21",
+    "status": "completed",
+    "meta": {
+      "shoppingType": "Clothing",
+      "platform": "Ajio",
+      "orderId": "ORD-442690",
+      "deliveryStatus": "Delivered",
+      "itemName": "Shelf unit"
+    },
+    "createdAt": "2026-05-18T04:30:05.860683",
+    "updatedAt": "2026-05-18T04:30:05.860683"
+  },
+  {
+    "category": "Entertainment",
+    "subCategory": "Events",
+    "amount": 2076.12,
+    "currency": "INR",
+    "description": "Escape Room \u2014 Gaming session",
+    "merchant": "Escape Room",
+    "date": "2026-05-03",
+    "status": "completed",
+    "meta": {
+      "entertainmentType": "Events",
+      "platform": "Escape Room",
+      "eventName": "Gaming session",
+      "venue": "",
+      "ticketCount": 3
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Transport",
+    "subCategory": "Ride",
+    "amount": 258.37,
+    "currency": "INR",
+    "description": "InDrive \u2014 Airport to Home",
+    "merchant": "InDrive",
+    "date": "2026-05-18",
+    "status": "completed",
+    "meta": {
+      "transportType": "Ride",
+      "provider": "InDrive",
+      "tripFrom": "Airport",
+      "tripTo": "Home",
+      "distanceKm": 3.8,
+      "dayLabel": ""
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "SaaS",
+    "amount": 1675,
+    "currency": "INR",
+    "description": "Adobe CC \u2014 Monthly subscription",
+    "merchant": "Adobe CC",
+    "date": "2026-05-01",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Food",
+    "subCategory": "Dine-out",
+    "amount": 1892.88,
+    "currency": "INR",
+    "description": "Pizza Hut \u2014 Dinner with friends",
+    "merchant": "Pizza Hut",
+    "date": "2026-04-19",
+    "status": "completed",
+    "meta": {
+      "foodType": "Dine-out",
+      "platform": "Pizza Hut",
+      "itemCount": 2,
+      "orderId": "ORD-584193"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "SaaS",
+    "amount": 199,
+    "currency": "INR",
+    "description": "Audible \u2014 Monthly subscription",
+    "merchant": "Audible",
+    "date": "2026-05-01",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Shopping",
+    "subCategory": "Clothing",
+    "amount": 2184.0,
+    "currency": "INR",
+    "description": "Myntra \u2014 Smart watch",
+    "merchant": "Myntra",
+    "date": "2026-05-02",
+    "status": "completed",
+    "meta": {
+      "shoppingType": "Clothing",
+      "platform": "Myntra",
+      "orderId": "ORD-689062",
+      "deliveryStatus": "Returned",
+      "itemName": "Smart watch"
+    },
+    "createdAt": "2026-05-18T04:30:05.860683",
+    "updatedAt": "2026-05-18T04:30:05.860683"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "SaaS",
+    "amount": 199,
+    "currency": "INR",
+    "description": "Audible \u2014 Monthly subscription",
+    "merchant": "Audible",
+    "date": "2026-04-01",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Food",
+    "subCategory": "Grocery",
+    "amount": 460.6,
+    "currency": "INR",
+    "description": "Zepto \u2014 Instant restock",
+    "merchant": "Zepto",
+    "date": "2026-04-19",
+    "status": "completed",
+    "meta": {
+      "foodType": "Grocery",
+      "platform": "Zepto",
+      "itemCount": 1,
+      "orderId": "ORD-360195"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Entertainment",
+    "subCategory": "Movies",
+    "amount": 513.67,
+    "currency": "INR",
+    "description": "INOX \u2014 Friends outing",
+    "merchant": "INOX",
+    "date": "2026-04-22",
+    "status": "completed",
+    "meta": {
+      "entertainmentType": "Movies",
+      "platform": "INOX",
+      "eventName": "Friends outing",
+      "venue": "INOX City Centre",
+      "ticketCount": 4
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Rent",
+    "subCategory": "Monthly",
+    "amount": 25000,
+    "currency": "INR",
+    "description": "2026-03 rent \u2014 Mr. Sharma",
+    "merchant": "Mr. Sharma",
+    "date": "2026-03-02",
+    "status": "completed",
+    "meta": {
+      "modeOfPayment": "Bank Transfer",
+      "upiRef": null,
+      "bankRef": "NEFT534941",
+      "billingMonth": "2026-03",
+      "landlordName": "Mr. Sharma",
+      "propertyAddress": "Flat 2B, Koramangala"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "SaaS",
+    "amount": 1675,
+    "currency": "INR",
+    "description": "Adobe CC \u2014 Monthly subscription",
+    "merchant": "Adobe CC",
+    "date": "2026-04-01",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "Cloud",
+    "amount": 130,
+    "currency": "INR",
+    "description": "Google One \u2014 Monthly subscription",
+    "merchant": "Google One",
+    "date": "2026-04-01",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "Streaming",
+    "amount": 179,
+    "currency": "INR",
+    "description": "Spotify \u2014 Monthly subscription",
+    "merchant": "Spotify",
+    "date": "2026-03-02",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Transport",
+    "subCategory": "Ride",
+    "amount": 38.51,
+    "currency": "INR",
+    "description": "Auto \u2014 Home to Gym",
+    "merchant": "Auto",
+    "date": "2026-05-02",
+    "status": "completed",
+    "meta": {
+      "transportType": "Ride",
+      "provider": "Auto",
+      "tripFrom": "Home",
+      "tripTo": "Gym",
+      "distanceKm": 17.4,
+      "dayLabel": ""
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Food",
+    "subCategory": "Grocery",
+    "amount": 329.09,
+    "currency": "INR",
+    "description": "Blinkit \u2014 Instant restock",
+    "merchant": "Blinkit",
+    "date": "2026-04-25",
+    "status": "completed",
+    "meta": {
+      "foodType": "Grocery",
+      "platform": "Blinkit",
+      "itemCount": 2,
+      "orderId": "ORD-589227"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Entertainment",
+    "subCategory": "Gaming",
+    "amount": 269.14,
+    "currency": "INR",
+    "description": "Steam \u2014 Weekend movie",
+    "merchant": "Steam",
+    "date": "2026-05-16",
+    "status": "completed",
+    "meta": {
+      "entertainmentType": "Gaming",
+      "platform": "Steam",
+      "eventName": "Weekend movie",
+      "venue": "",
+      "ticketCount": null
+    },
+    "createdAt": "2026-05-18T04:30:05.860683",
+    "updatedAt": "2026-05-18T04:30:05.860683"
+  },
+  {
+    "category": "Shopping",
+    "subCategory": "Clothing",
+    "amount": 587.89,
+    "currency": "INR",
+    "description": "Meesho \u2014 Desk lamp",
+    "merchant": "Meesho",
+    "date": "2026-03-05",
+    "status": "completed",
+    "meta": {
+      "shoppingType": "Clothing",
+      "platform": "Meesho",
+      "orderId": "ORD-804585",
+      "deliveryStatus": "Delivered",
+      "itemName": "Desk lamp"
+    },
+    "createdAt": "2026-05-18T04:30:05.860683",
+    "updatedAt": "2026-05-18T04:30:05.860683"
+  },
+  {
+    "category": "Food",
+    "subCategory": "Delivery",
+    "amount": 495.68,
+    "currency": "INR",
+    "description": "Domino's \u2014 Weekend family order",
+    "merchant": "Domino's",
+    "date": "2026-03-20",
+    "status": "completed",
+    "meta": {
+      "foodType": "Delivery",
+      "platform": "Domino's",
+      "itemCount": 5,
+      "orderId": "ORD-815454"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Food",
+    "subCategory": "Dine-out",
+    "amount": 1882.76,
+    "currency": "INR",
+    "description": "Pizza Hut \u2014 Monthly grocery run",
+    "merchant": "Pizza Hut",
+    "date": "2026-03-21",
+    "status": "completed",
+    "meta": {
+      "foodType": "Dine-out",
+      "platform": "Pizza Hut",
+      "itemCount": 2,
+      "orderId": "ORD-906645"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Shopping",
+    "subCategory": "Electronics",
+    "amount": 11133.42,
+    "currency": "INR",
+    "description": "Croma \u2014 Summer collection",
+    "merchant": "Croma",
+    "date": "2026-04-06",
+    "status": "completed",
+    "meta": {
+      "shoppingType": "Electronics",
+      "platform": "Croma",
+      "orderId": "ORD-628118",
+      "deliveryStatus": "Delivered",
+      "itemName": "Summer collection"
+    },
+    "createdAt": "2026-05-18T04:30:05.860683",
+    "updatedAt": "2026-05-18T04:30:05.860683"
+  },
+  {
+    "category": "Entertainment",
+    "subCategory": "Events",
+    "amount": 4665.81,
+    "currency": "INR",
+    "description": "BookMyShow \u2014 Birthday party",
+    "merchant": "BookMyShow",
+    "date": "2026-03-28",
+    "status": "completed",
+    "meta": {
+      "entertainmentType": "Events",
+      "platform": "BookMyShow",
+      "eventName": "Birthday party",
+      "venue": "",
+      "ticketCount": 2
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "Streaming",
+    "amount": 649,
+    "currency": "INR",
+    "description": "Netflix \u2014 Monthly subscription",
+    "merchant": "Netflix",
+    "date": "2026-05-01",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Shopping",
+    "subCategory": "Clothing",
+    "amount": 1011.92,
+    "currency": "INR",
+    "description": "Meesho \u2014 USB-C Hub",
+    "merchant": "Meesho",
+    "date": "2026-04-13",
+    "status": "completed",
+    "meta": {
+      "shoppingType": "Clothing",
+      "platform": "Meesho",
+      "orderId": "ORD-792519",
+      "deliveryStatus": "Delivered",
+      "itemName": "USB-C Hub"
+    },
+    "createdAt": "2026-05-18T04:30:05.860683",
+    "updatedAt": "2026-05-18T04:30:05.860683"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "Streaming",
+    "amount": 299,
+    "currency": "INR",
+    "description": "Hotstar \u2014 Monthly subscription",
+    "merchant": "Hotstar",
+    "date": "2026-04-01",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Food",
+    "subCategory": "Dine-out",
+    "amount": 158.07,
+    "currency": "INR",
+    "description": "Local Dhaba \u2014 Dinner with friends",
+    "merchant": "Local Dhaba",
+    "date": "2026-04-02",
+    "status": "completed",
+    "meta": {
+      "foodType": "Dine-out",
+      "platform": "Local Dhaba",
+      "itemCount": 5,
+      "orderId": "ORD-323516"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Shopping",
+    "subCategory": "Home",
+    "amount": 3273.9,
+    "currency": "INR",
+    "description": "IKEA \u2014 Shelf unit",
+    "merchant": "IKEA",
+    "date": "2026-03-08",
+    "status": "completed",
+    "meta": {
+      "shoppingType": "Home",
+      "platform": "IKEA",
+      "orderId": "ORD-972435",
+      "deliveryStatus": "Delivered",
+      "itemName": "Shelf unit"
+    },
+    "createdAt": "2026-05-18T04:30:05.860683",
+    "updatedAt": "2026-05-18T04:30:05.860683"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "SaaS",
+    "amount": 199,
+    "currency": "INR",
+    "description": "Audible \u2014 Monthly subscription",
+    "merchant": "Audible",
+    "date": "2026-03-02",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Transport",
+    "subCategory": "Fuel",
+    "amount": 1167.49,
+    "currency": "INR",
+    "description": "Indian Oil \u2014 Airport to Home",
+    "merchant": "Indian Oil",
+    "date": "2026-05-18",
+    "status": "completed",
+    "meta": {
+      "transportType": "Fuel",
+      "provider": "Indian Oil",
+      "tripFrom": "Airport",
+      "tripTo": "Home",
+      "distanceKm": null,
+      "dayLabel": ""
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Food",
+    "subCategory": "Dine-out",
+    "amount": 1929.21,
+    "currency": "INR",
+    "description": "Pizza Hut \u2014 Quick lunch",
+    "merchant": "Pizza Hut",
+    "date": "2026-04-12",
+    "status": "completed",
+    "meta": {
+      "foodType": "Dine-out",
+      "platform": "Pizza Hut",
+      "itemCount": 5,
+      "orderId": "ORD-852423"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "Streaming",
+    "amount": 299,
+    "currency": "INR",
+    "description": "Hotstar \u2014 Monthly subscription",
+    "merchant": "Hotstar",
+    "date": "2026-03-02",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Shopping",
+    "subCategory": "Electronics",
+    "amount": 2052.23,
+    "currency": "INR",
+    "description": "Croma \u2014 Laptop stand",
+    "merchant": "Croma",
+    "date": "2026-05-09",
+    "status": "completed",
+    "meta": {
+      "shoppingType": "Electronics",
+      "platform": "Croma",
+      "orderId": "ORD-223589",
+      "deliveryStatus": "In Transit",
+      "itemName": "Laptop stand"
+    },
+    "createdAt": "2026-05-18T04:30:05.860683",
+    "updatedAt": "2026-05-18T04:30:05.860683"
+  },
+  {
+    "category": "Rent",
+    "subCategory": "Monthly",
+    "amount": 25000,
+    "currency": "INR",
+    "description": "2026-01 rent \u2014 Mr. Sharma",
+    "merchant": "Mr. Sharma",
+    "date": "2026-01-01",
+    "status": "completed",
+    "meta": {
+      "modeOfPayment": "Bank Transfer",
+      "upiRef": null,
+      "bankRef": "NEFT118505",
+      "billingMonth": "2026-01",
+      "landlordName": "Mr. Sharma",
+      "propertyAddress": "Flat 2B, Koramangala"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Shopping",
+    "subCategory": "Clothing",
+    "amount": 1284.1,
+    "currency": "INR",
+    "description": "Ajio \u2014 Skincare kit",
+    "merchant": "Ajio",
+    "date": "2026-03-19",
+    "status": "completed",
+    "meta": {
+      "shoppingType": "Clothing",
+      "platform": "Ajio",
+      "orderId": "ORD-752717",
+      "deliveryStatus": "Delivered",
+      "itemName": "Skincare kit"
+    },
+    "createdAt": "2026-05-18T04:30:05.860683",
+    "updatedAt": "2026-05-18T04:30:05.860683"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "Health",
+    "amount": 999,
+    "currency": "INR",
+    "description": "Gym Pro \u2014 Monthly subscription",
+    "merchant": "Gym Pro",
+    "date": "2026-04-01",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Entertainment",
+    "subCategory": "Streaming",
+    "amount": 149.0,
+    "currency": "INR",
+    "description": "Amazon Prime \u2014 Birthday party",
+    "merchant": "Amazon Prime",
+    "date": "2026-05-04",
+    "status": "completed",
+    "meta": {
+      "entertainmentType": "Streaming",
+      "platform": "Amazon Prime",
+      "eventName": "Birthday party",
+      "venue": "",
+      "ticketCount": null
+    },
+    "createdAt": "2026-05-18T04:30:05.860683",
+    "updatedAt": "2026-05-18T04:30:05.860683"
+  },
+  {
+    "category": "Transport",
+    "subCategory": "Fuel",
+    "amount": 1047.04,
+    "currency": "INR",
+    "description": "Indian Oil \u2014 Office to Restaurant",
+    "merchant": "Indian Oil",
+    "date": "2026-05-01",
+    "status": "completed",
+    "meta": {
+      "transportType": "Fuel",
+      "provider": "Indian Oil",
+      "tripFrom": "Office",
+      "tripTo": "Restaurant",
+      "distanceKm": null,
+      "dayLabel": ""
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "Cloud",
+    "amount": 2100,
+    "currency": "INR",
+    "description": "AWS EC2 \u2014 Monthly subscription",
+    "merchant": "AWS EC2",
+    "date": "2026-05-01",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Shopping",
+    "subCategory": "Clothing",
+    "amount": 2081.7,
+    "currency": "INR",
+    "description": "Myntra \u2014 Skincare kit",
+    "merchant": "Myntra",
+    "date": "2026-04-22",
+    "status": "completed",
+    "meta": {
+      "shoppingType": "Clothing",
+      "platform": "Myntra",
+      "orderId": "ORD-248089",
+      "deliveryStatus": "Delivered",
+      "itemName": "Skincare kit"
+    },
+    "createdAt": "2026-05-18T04:30:05.860683",
+    "updatedAt": "2026-05-18T04:30:05.860683"
+  },
+  {
+    "category": "Food",
+    "subCategory": "Delivery",
+    "amount": 602.14,
+    "currency": "INR",
+    "description": "Swiggy \u2014 Quick lunch",
+    "merchant": "Swiggy",
+    "date": "2026-05-10",
+    "status": "completed",
+    "meta": {
+      "foodType": "Delivery",
+      "platform": "Swiggy",
+      "itemCount": 2,
+      "orderId": "ORD-166344"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Food",
+    "subCategory": "Delivery",
+    "amount": 449.7,
+    "currency": "INR",
+    "description": "Zomato \u2014 Late-night snacks",
+    "merchant": "Zomato",
+    "date": "2026-04-11",
+    "status": "completed",
+    "meta": {
+      "foodType": "Delivery",
+      "platform": "Zomato",
+      "itemCount": 3,
+      "orderId": "ORD-656306"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Transport",
+    "subCategory": "Ride",
+    "amount": 288.07,
+    "currency": "INR",
+    "description": "InDrive \u2014 Home to Gym",
+    "merchant": "InDrive",
+    "date": "2026-05-13",
+    "status": "completed",
+    "meta": {
+      "transportType": "Ride",
+      "provider": "InDrive",
+      "tripFrom": "Home",
+      "tripTo": "Gym",
+      "distanceKm": 14.2,
+      "dayLabel": ""
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Food",
+    "subCategory": "Dine-out",
+    "amount": 86.86,
+    "currency": "INR",
+    "description": "Canteen \u2014 Monthly grocery run",
+    "merchant": "Canteen",
+    "date": "2026-03-22",
+    "status": "completed",
+    "meta": {
+      "foodType": "Dine-out",
+      "platform": "Canteen",
+      "itemCount": 4,
+      "orderId": "ORD-217212"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "Cloud",
+    "amount": 2100,
+    "currency": "INR",
+    "description": "AWS EC2 \u2014 Monthly subscription",
+    "merchant": "AWS EC2",
+    "date": "2026-04-01",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Entertainment",
+    "subCategory": "Gaming",
+    "amount": 499.0,
+    "currency": "INR",
+    "description": "Xbox Game Pass \u2014 Friends outing",
+    "merchant": "Xbox Game Pass",
+    "date": "2026-03-31",
+    "status": "completed",
+    "meta": {
+      "entertainmentType": "Gaming",
+      "platform": "Xbox Game Pass",
+      "eventName": "Friends outing",
+      "venue": "",
+      "ticketCount": null
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Rent",
+    "subCategory": "Monthly",
+    "amount": 25000,
+    "currency": "INR",
+    "description": "2026-04 rent \u2014 Mr. Sharma",
+    "merchant": "Mr. Sharma",
+    "date": "2026-04-01",
+    "status": "completed",
+    "meta": {
+      "modeOfPayment": "Bank Transfer",
+      "upiRef": null,
+      "bankRef": "NEFT667286",
+      "billingMonth": "2026-04",
+      "landlordName": "Mr. Sharma",
+      "propertyAddress": "Flat 2B, Koramangala"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "SaaS",
+    "amount": 1675,
+    "currency": "INR",
+    "description": "Adobe CC \u2014 Monthly subscription",
+    "merchant": "Adobe CC",
+    "date": "2026-03-02",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "SaaS",
+    "amount": 320,
+    "currency": "INR",
+    "description": "Notion Pro \u2014 Yearly subscription",
+    "merchant": "Notion Pro",
+    "date": "2026-05-01",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Yearly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "SaaS",
+    "amount": 1599,
+    "currency": "INR",
+    "description": "LinkedIn Premium \u2014 Monthly subscription",
+    "merchant": "LinkedIn Premium",
+    "date": "2026-04-01",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": false,
+      "planName": "Standard",
+      "subscriptionStatus": "Cancelled"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "Cloud",
+    "amount": 130,
+    "currency": "INR",
+    "description": "Google One \u2014 Monthly subscription",
+    "merchant": "Google One",
+    "date": "2026-03-02",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Subscription",
+    "subCategory": "Health",
+    "amount": 999,
+    "currency": "INR",
+    "description": "Gym Pro \u2014 Monthly subscription",
+    "merchant": "Gym Pro",
+    "date": "2026-03-02",
+    "status": "completed",
+    "meta": {
+      "billingCycle": "Monthly",
+      "renewalDate": "2026-06-17",
+      "autoRenew": true,
+      "planName": "Standard",
+      "subscriptionStatus": "Active"
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Transport",
+    "subCategory": "Fuel",
+    "amount": 2103.86,
+    "currency": "INR",
+    "description": "Indian Oil \u2014 Office to Home",
+    "merchant": "Indian Oil",
+    "date": "2026-04-24",
+    "status": "completed",
+    "meta": {
+      "transportType": "Fuel",
+      "provider": "Indian Oil",
+      "tripFrom": "Office",
+      "tripTo": "Home",
+      "distanceKm": null,
+      "dayLabel": ""
+    },
+    "createdAt": "2026-05-18T04:30:05.859589",
+    "updatedAt": "2026-05-18T04:30:05.859589"
+  },
+  {
+    "category": "Shopping",
+    "subCategory": "Electronics",
+    "amount": 5765.92,
+    "currency": "INR",
+    "description": "Amazon \u2014 Keyboard",
+    "merchant": "Amazon",
+    "date": "2026-04-02",
+    "status": "completed",
+    "meta": {
+      "shoppingType": "Electronics",
+      "platform": "Amazon",
+      "orderId": "ORD-946386",
+      "deliveryStatus": "In Transit",
+      "itemName": "Keyboard"
+    },
+    "createdAt": "2026-05-18T04:30:05.860683",
+    "updatedAt": "2026-05-18T04:30:05.860683"
+  }
+]
