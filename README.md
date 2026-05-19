@@ -387,4 +387,4 @@ Open your browser and navigate to `http://localhost:5173`.
 *   **Core UI**: Interact with the Core Ledger, check Category Registries, and query the **FIN_ORACLE** sidebar!
 
 ---
-*Created by team Google Deepmind and the Antigravity pair programming engine.*
+
